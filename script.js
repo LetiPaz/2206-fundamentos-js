@@ -35,3 +35,4 @@ else{
     area = (altura * comprimento)/2;
 }
 console.log(area);
+
